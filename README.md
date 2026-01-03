@@ -8,17 +8,6 @@ Both **frontend** and **admin panels** are built with **React.js** and **Tailwin
 
 ---
 
-## 🌐 Live Links
-
-| Section | Live Link |
-|----------|------------|
-| 🛍️ **Frontend (User Site)** | [Forever](https://forever-frontend-gamma-three.vercel.app/) |
-| 🧑‍💼 **Admin Dashboard** | [Forever Admin Panel](https://forever-admin-three-pi.vercel.app/) |
-| ⚙️ **Backend API** | [Forever Backend](https://forever-backend-woad-iota.vercel.app/) |
-| 🗄️ **Database** | Hosted on **MongoDB Atlas** |
-
----
-
 ## ✨ Features
 
 ### 👤 User Features
@@ -50,7 +39,6 @@ The **Admin Dashboard** is designed for efficient store management:
 | **Authentication** | JWT (JSON Web Token) |
 | **Payments** | Stripe, Razorpay, Cash on Delivery |
 | **Media Storage** | Cloudinary |
-| **Deployment** | Vercel |
 
 ---
 
@@ -74,7 +62,6 @@ mern-ecommerce/
 │   ├── .env                    # Environment variables
 │   ├── index.html              # Root HTML file
 │   ├── tailwind.config.js      # Tailwind CSS configuration
-│   ├── vercel.json             # Deployment configuration (Vercel)
 │   └── package.json
 │
 ├── backend/
@@ -106,7 +93,6 @@ mern-ecommerce/
 │   │
 │   ├── .env                    # Environment variables
 │   ├── server.js               # Main Express server file
-│   ├── vercel.json             # Deployment configuration (Vercel)
 │   └── package.json
 │
 ├── frontend/
@@ -125,7 +111,6 @@ mern-ecommerce/
 │   ├── .env                    # Environment variables
 │   ├── index.html              # Root HTML file
 │   ├── tailwind.config.js      # Tailwind CSS configuration
-│   ├── vercel.json             # Deployment configuration (Vercel)
 │   └── package.json
 │
 ├── README.md                   # Project documentation
@@ -138,7 +123,7 @@ mern-ecommerce/
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/shabnamsakhre/Forever_E-Commerce-Project.git
+git clone https://github.com/Chetnatupat/E-Commerce-Website
 
 # 2️⃣ Navigate into the project folder
 cd mern-ecommerce
@@ -235,14 +220,6 @@ Then visit:
 
 ---
 
-## 🚀 Deployment
-
-* **Frontend, Backend & Admin:** [Vercel](https://vercel.com/)
-* **Database:** [MongoDB Atlas](https://www.mongodb.com/atlas)
-* **Media Storage:** [Cloudinary](https://cloudinary.com/)
-
----
-
 ## 📚 Future Enhancements
 
 * 🧾 PDF Invoice Generation
@@ -254,10 +231,10 @@ Then visit:
 
 ## 👨‍💻 Author
 
-**Developed by:** Shabnam Rajkumar Sakhre
+**Developed by:** Chetna Tupat
 
-🐙 [GitHub](https://github.com/shabnamsakhre)
+🐙 [GitHub](https://github.com/Chetnatupat)
 
-💼 [LinkedIn](https://linkedin.com/in/shabnamsakhre)
+💼 [LinkedIn](https://linkedin.com/in/chetna-tupat)
 
 ---
